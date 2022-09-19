@@ -1,4 +1,5 @@
 # Raycast Script USD/RUB pair script.
+![example](https://user-images.githubusercontent.com/70252381/191006191-681fb5b4-1db0-45ba-963a-4ad575114aa6.png)
 
 The Raycast script for fetching the latest usd to rub conversion rate.
 
