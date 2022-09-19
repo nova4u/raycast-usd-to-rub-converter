@@ -1,0 +1,13 @@
+{
+  "name": "usd-to-rub-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "The Raycast script for fetching the latest usd to rub conversion rate.",
+  "repository": "https://github.com/nova4u/raycast-usd-to-rub-converter",
+  "author": "Denis Marushchak <denismar322@gmail.com>",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "2.6.1"
+  }
+}
